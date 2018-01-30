@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">User Input</string>
+    <string name="button">Submit</string>
+    <string name="display1">Fill in contact details:</string>
+    <string name="text1">Enter Name</string>
+    <string name="name">Enter Name</string>
+    <string name="contact">Enter Phone Number</string>
+    <string name="email">Enter E-mail id</string>
+    <string name="address">Enter Address</string>
+    <string name="dob">Enter DOB (dd/mm/yyyy)</string>
+    <string name="password">Set Password</string>
+    <string name="formimg">formimg</string>
+    <string-array name="sex_array">
+        <item>-Select Sex-</item>
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+</resources>
